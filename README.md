@@ -1,0 +1,2 @@
+# HashMap
+java HashMap solutions
